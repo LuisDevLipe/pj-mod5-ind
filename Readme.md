@@ -25,7 +25,7 @@ O foco do projeto é uma aplicação/ferramenta que rodará no node tendo como i
 A aplicação recebe via terminal `propriedas de CSS` às armazena e sendo encerrada pelo utilizador encerra o laço em que roda a aplicação roda ao enviar `sair` no terminal, devolvendo as `propriedades`recebidas ordenadas de A-Z.
 -` node app.js`
 Irá iniciar a aplicação,e terminará o processo quando a aplicação for finalizada com a string `sair` no terminal.
-## Com o pacote nodemon a aplicação poderá ser inicializada com 
+## Com o pacote nodemon a aplicação poderá ser inicializada com `npm start`
 
 ##Aplicação iniciada, esperando a primeira entrada.
 ![aplicação iniciada, esperando a primeira entrada](imgs/pergunta.png)
