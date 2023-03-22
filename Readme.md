@@ -1,5 +1,5 @@
 ## Facilitando o dia a dia.
-##Projeto Individual Mod5.
+## Projeto Individual Mod5.
 ![Print do código da aplicação](https://github.com/LuisDevLipe/pj-mod5-ind/blob/LuisDev/imgs/code.png) "Print do código da aplicação"
 
 ## Tencologias utilzadas.
@@ -27,7 +27,7 @@ A aplicação recebe via terminal `propriedas de CSS` às armazena e sendo encer
 Irá iniciar a aplicação,e terminará o processo quando a aplicação for finalizada com a string `sair` no terminal.
 ## Com o pacote nodemon a aplicação poderá ser inicializada com `npm start`
 
-##Aplicação iniciada, esperando a primeira entrada.
+## Aplicação iniciada, esperando a primeira entrada.
 ![aplicação iniciada, esperando a primeira entrada](imgs/pergunta.png)
 ## Resultado ao finalizar o funcionamento da aplicação.
 ![resultado ao finalizar o funcionamento da aplicação](imgs/resultado.png)
