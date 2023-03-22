@@ -3,15 +3,15 @@
 ![Print do código da aplicação]('./imgs/code.png')
 
 <h1 align="left">Tencologias utilzadas</h1>
--- ``Node``
--- ``Chalk``
--- ``Nodemon``
+-- `Node`
+-- `Chalk`
+-- `Nodemon`
 
 <h1 align="left">instalando as dependências necessárias</h1>
 
 ## Dependências utilizadas no projeto.
 
-- ``Chalk``
+- `Chalk`
 ``` npm instal ``` 
 Irá instalar somente a dependência do chalk já que o nodemon foi importado do `NPM` como dependência de desenvolvimento.
 ## Funcionamento do código
@@ -25,5 +25,5 @@ Irá iniciar a aplicação,e terminará o processo quando a aplicação for fina
 A aplicação então irá se repetir sempre que for terminada , esperando sempre por uma entrada após enviar o resultado da última vez que a aplicação foi instanciada.
 
 <h2 align="center">Projeto Individual Mod</h2>
-![aplicação iniciada, esperando a primeira entrada]('./imgs/pergunta')
-![resultado ao finalizar o funcionamento da aplicação]('./imgs/resultado')
+![aplicação iniciada, esperando a primeira entrada]('./imgs/pergunta.png')
+![resultado ao finalizar o funcionamento da aplicação]('./imgs/resultado.png')
