@@ -1,11 +1,13 @@
 <h1 align="center">Facilitando o dia a dia.</h1>
 <h2 align="center">Projeto Individual Mod5</h2>
-![Print do código da aplicação]('./imgs/code.png')
+![Print do código da aplicação][code]
+[code]: ./imgs/code.png
 
 <h1 align="left">Tencologias utilzadas</h1>
--- `Node`
--- `Chalk`
--- `Nodemon`
+## -
+- `Node`
+- `Chalk`
+- `Nodemon`
 
 <h1 align="left">instalando as dependências necessárias</h1>
 
