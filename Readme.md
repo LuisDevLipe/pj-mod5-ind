@@ -1,4 +1,3 @@
-![Print do código da aplicação](https://github.com/LuisDevLipe/pj-mod5-ind/blob/LuisDev/imgs/code.png) "Print do código da aplicação"
 ## Facilitando o dia a dia.
 ##Projeto Individual Mod5.
 ![Print do código da aplicação](https://github.com/LuisDevLipe/pj-mod5-ind/blob/LuisDev/imgs/code.png) "Print do código da aplicação"
@@ -25,6 +24,6 @@ Irá iniciar a aplicação,e terminará o processo quando a aplicação for fina
 -`npm start`
 A aplicação então irá se repetir sempre que for terminada , esperando sempre por uma entrada após enviar o resultado da última vez que a aplicação foi instanciada.
 ##Aplicação iniciada, esperando a primeira entrada.
-![aplicação iniciada, esperando a primeira entrada]('./imgs/pergunta.png')
+![aplicação iniciada, esperando a primeira entrada](imgs/pergunta.png)
 ## Resultado ao finalizar o funcionamento da aplicação.
-![resultado ao finalizar o funcionamento da aplicação]('./imgs/resultado.png')
+![resultado ao finalizar o funcionamento da aplicação](imgs/resultado.png)
