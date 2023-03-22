@@ -13,8 +13,9 @@
 ## Dependências utilizadas no projeto.
 
 - `Chalk`
+- `readline`
 ## .
-Para instalar somente a dependência do chalk já que o nodemon foi importado do `NPM` como dependência de desenvolvimento.
+Para instalar somente a dependência do chalk já que o nodemon foi importado do `NPM` como dependência de desenvolvimento,e o readline é uma dependência do Node presente nas versões mais recentes.
 ` npm install `
 ## Nodemon
 A aplicação então irá se repetir sempre que for terminada , esperando sempre por uma entrada após enviar o resultado da última vez que a aplicação foi instanciada.
