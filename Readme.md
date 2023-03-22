@@ -1,7 +1,7 @@
 <h1 align="center">Facilitando o dia a dia.</h1>
 <h2 align="center">Projeto Individual Mod5</h2>
 ![Print do código da aplicação][code]
-[code]: https://github.com/LuisDevLipe/pj-mod5-ind/blob/LuisDev/imgs/code.png?raw=true "Print do código da aplicação"
+[code]: (https://github.com/LuisDevLipe/pj-mod5-ind/blob/LuisDev/imgs/code.png?raw=true) "Print do código da aplicação"
 
 <h1 align="left">Tencologias utilzadas</h1>
 - `Node`
